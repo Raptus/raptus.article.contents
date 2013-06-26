@@ -16,6 +16,7 @@ Dependencies
 ------------
     * raptus.article.core
     * raptus.article.nesting
+    * raptus.article.listings
 
 Installation
 ============
