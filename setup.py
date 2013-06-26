@@ -35,7 +35,7 @@ setup(name='raptus.article.contents',
           'setuptools',
           'raptus.article.core',
           'raptus.article.nesting',
-          'raptus.article.listings>=2.0b8',
+          'raptus.article.listings>2.0b7',
           # -*- Extra requirements: -*-
       ],
       entry_points="""

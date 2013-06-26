@@ -26,6 +26,6 @@ class Viewlet(listing.ViewletLeft):
     """
     title = _(u'More about this topic')
     cssClass = 'contents-listing'
-    type = "listing-contents"
+    type = "contents"
     thumb_size = None
     component = "contents"
